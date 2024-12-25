@@ -36,5 +36,3 @@ I’ve just completed an insightful course on **Reasoning with o1**, deepening m
    - **Show Rather Than Tell**: Providing examples of the question format (instead of just explaining) helps the model grasp what is needed.
 
 This course has expanded my understanding of o1’s reasoning capabilities and the importance of structuring prompts effectively. I’m excited to apply these insights in future projects!
-
---- 

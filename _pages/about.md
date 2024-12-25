@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi there, I'm Islam 👋"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+# Hi there, I'm Islam 👋
 
 Welcome to my portfolio! I am an M.Sc student in Artificial Intelligence & Machine Learning at the [Technical University of Darmstadt](https://www.tu-darmstadt.de). My academic and professional passions revolve around **Natural Language Processing** and **Deep Learning**, where I enjoy exploring the complexities of language models and cutting-edge AI technologies.
 
