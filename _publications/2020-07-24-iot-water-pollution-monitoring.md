@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Developing an IoT-Based Water Pollution Monitoring System"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
-date: 2009-10-01
-venue: "Journal 1"
+category: conference_papers
+permalink: /publication/2020-07-24-iot-water-pollution-monitoring
+excerpt: "This paper proposes an IoT-based water pollution monitoring system designed to measure and analyze water quality in real-time, focusing on rural areas of Bangladesh."
+date: 2020-07-24
+venue: "Image Processing and Capsule Networks (ICIPCN 2020)"
 slidesurl: "http://academicpages.github.io/files/slides1.pdf"
 paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1)."
+citation: "Your Name, You. (2020). &quot;Developing an IoT-Based Water Pollution Monitoring System.&quot; <i>Image Processing and Capsule Networks (ICIPCN 2020)</i>, pp. 561–573."
 ---
 
 In the area of technological studies, the Internet of Things (IoT) has become an interesting subject matter. It is the interconnection of things with each other over the internet. Average people often assume IoT in terms of self-sustaining vehicles and smart houses; however, some of the most impactful applications of IoT technology are in intensely practical fields.
