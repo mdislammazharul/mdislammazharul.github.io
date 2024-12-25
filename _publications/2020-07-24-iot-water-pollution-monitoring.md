@@ -1,14 +1,14 @@
 ---
 title: "Developing an IoT-Based Water Pollution Monitoring System"
 collection: publications
-category: conference_papers
+category: conferences
 permalink: /publication/2020-07-24-iot-water-pollution-monitoring
 excerpt: "This paper proposes an IoT-based water pollution monitoring system designed to measure and analyze water quality in real-time, focusing on rural areas of Bangladesh."
 date: 2020-07-24
 venue: "Image Processing and Capsule Networks (ICIPCN 2020)"
-slidesurl: "http://academicpages.github.io/files/slides1.pdf"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2020). &quot;Developing an IoT-Based Water Pollution Monitoring System.&quot; <i>Image Processing and Capsule Networks (ICIPCN 2020)</i>, pp. 561–573."
+slidesurl: "http://mdislammazharul.github.io/files/PID-ICIPCN055.pdf"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-030-51859-2_51"
+citation: "Islam, M. M. (2020). Developing an IoT-Based Water Pollution Monitoring System. In *Image Processing and Capsule Networks (ICIPCN 2020)*, pp. 561–573."
 ---
 
 In the area of technological studies, the Internet of Things (IoT) has become an interesting subject matter. It is the interconnection of things with each other over the internet. Average people often assume IoT in terms of self-sustaining vehicles and smart houses; however, some of the most impactful applications of IoT technology are in intensely practical fields.
