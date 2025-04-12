@@ -14,7 +14,9 @@ Just completed a course on [Reasoning with o1](https://learn.deeplearning.ai/acc
 
 ### 🎓 **DeepLearning.AI: Reasoning with o1**
 
-I’ve just completed an insightful course on **Reasoning with o1**, deepening my understanding of its capabilities and nuances. Here are some key takeaways:
+I’ve just completed an insightful course on **Reasoning with o1**, deepening my understanding of its capabilities and nuances.
+
+#### 🧠 Key Concepts Covered:
 
 1. **Chain of Thought**  
    o1 leverages a **chain of thought** to break down complex problems step-by-step, improving reasoning processes.
