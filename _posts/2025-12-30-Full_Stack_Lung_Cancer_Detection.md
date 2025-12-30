@@ -28,7 +28,7 @@ From a clinical perspective, lung cancer is commonly categorized into multiple h
 
 Adenocarcinoma and squamous cell carcinoma are two major forms of non-small cell lung cancer (NSCLC), each associated with different growth patterns, treatment strategies, and prognostic implications. Distinguishing between these subtypes using histopathology images requires careful analysis of **cellular morphology, tissue architecture, and staining patterns**, which can be subtle and highly variable.
 
-Ref: https://doi.org/10.1038/s41598-024-61101-7
+Ref: [Precise and automated lung cancer cell classification using deep neural network with multiscale features and model distillation](https://doi.org/10.1038/s41598-024-61101-7)
 
 ---
 
@@ -131,7 +131,7 @@ This folder naming is important because later:
 * training maps folders → class indices
 * inference uses `classes.json` to map indices → labels 
 
-Dataset Link: https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
+Kaggle Dataset Link: [Lung and Colon Cancer Histopathological Images](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
 
 Typical setup commands:
 
